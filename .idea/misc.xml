@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable-anydpi/ic_action_list.xml" value="0.236" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable-mdpi/bacground_gradient.xml" value="0.236" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable-mdpi/custom_bottom_question.xml" value="0.1835" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable-xhdpi/bacground_gradient.xml" value="0.2775" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable-xhdpi/header_back_t.xml" value="0.1835" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable-xhdpi/round_boder_answer_t.xml" value="0.114" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable/custom_bottom_question_active.xml" value="0.236" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable/custom_monthi.xml" value="0.1835" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/drawable/ic_launcher_background.xml" value="0.236" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/activity_de_thi.xml" value="0.25181159420289856" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/activity_ket_qua.xml" value="0.22282608695652173" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/activity_ket_qua_thi_t.xml" value="0.2572463768115942" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/activity_mon_thi.xml" value="0.22282608695652173" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/fragment_question.xml" value="0.22282608695652173" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/grid_ketquathi_t.xml" value="0.2572463768115942" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/item_dethi.xml" value="0.264" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/item_grid_ketquathi_t.xml" value="0.2572463768115942" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/item_list_ketquathi_t.xml" value="0.2572463768115942" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/item_monthi.xml" value="0.25181159420289856" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/layout_bottom_question.xml" value="0.25181159420289856" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25181159420289856" />
+        <entry key="..\:/AppThiTracNghiem/app/src/main/res/layout/list_ketquathi_t.xml" value="0.2572463768115942" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/drawable-mdpi/custom_bottom_question.xml" value="0.1665" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/drawable-xhdpi/bacground_gradient.xml" value="0.1315" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/drawable-xhdpi/custom_bottom_question.xml" value="0.1665" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/drawable-xhdpi/custom_bottom_question_active.xml" value="0.1665" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/drawable/bacground_gradient.xml" value="0.1665" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/drawable/custom_bottom_question_active.xml" value="0.1665" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/drawable/custom_monthi.xml" value="0.1665" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/activity_de_thi.xml" value="0.10277777777777777" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/activity_ket_qua.xml" value="0.25" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/activity_main.xml" value="0.10277777777777777" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/activity_mon_thi.xml" value="0.25" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/fragment_question.xml" value="0.10277777777777777" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/grid_ketquathi_t.xml" value="0.10277777777777777" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/item_dethi.xml" value="0.264" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/item_monthi.xml" value="0.264" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/layout_bottom_question.xml" value="0.25" />
+        <entry key="..\:/AppThiTracNgiem/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/WorkPlace/Android/AppThiTracNgiem/app/src/main/res/layout/activity_login.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
